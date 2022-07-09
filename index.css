@@ -19,7 +19,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 0 1rem;
-    max-width: 3024px;
+    max-width: 1024px;
     margin: 0 auto;
     padding: 0 1rem;
 }
@@ -77,10 +77,6 @@
 .header-nav__menu-link--active::before,
 .header-nav__menu-link:hover::before {
     width: 100%;
-}
-
-.main {
-    display: flex;
 }
 
 
