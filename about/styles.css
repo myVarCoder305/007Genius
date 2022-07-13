@@ -6,6 +6,7 @@
         height: fit-content;
         border: 50px;
         border-color: red;
+        float: inline-start;
 }
 
 #legend {
@@ -25,5 +26,5 @@
         background-color: whitesmoke;
         width: 600px;
         height: 600px;
-        float: right;
+        float: inline-end;
 }
