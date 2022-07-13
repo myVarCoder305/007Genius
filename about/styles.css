@@ -1,0 +1,29 @@
+#div1 {
+        background-color: orange;
+        font-style: initial;
+        font-weight: bolder;
+        width: 400px;
+        height: fit-content;
+        border: 50px;
+        border-color: red;
+}
+
+#legend {
+        font-style: italic;
+        font-weight: bolder;
+        font-display: black;
+        font-size: xx-large;
+}
+
+
+
+#wright2 {
+        
+}
+
+#chepe {
+        background-color: whitesmoke;
+        width: 600px;
+        height: 600px;
+        float: right;
+}
