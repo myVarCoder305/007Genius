@@ -1,0 +1,40 @@
+.field {
+        background-color: orange;
+        font-style: initial;
+        font-weight: bolder;
+        border-style: dashed;
+        border-width: 5px;
+        border-color: red;
+        width: 200px;
+        height: auto;
+        float: inline-start;
+        padding: 1rem, 1rem, 1rem, 1rem;
+        
+}
+
+.hr1 {
+        width: auto;
+}
+
+
+#legend {
+        font-style: italic;
+        font-weight: bolder;
+        font-display: black;
+        font-size: xx-large;
+        text-decoration: underline;
+        text-decoration: wavy;
+        font-size:20px;
+}
+#wright2 {
+        
+}
+#chepe {
+        background-color: whitesmoke;
+        width: 800px;
+        height: 400px;
+       float: inline-end;
+}
+
+
+
