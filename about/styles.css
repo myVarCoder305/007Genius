@@ -9,8 +9,21 @@
         height: auto;
         float: inline-start;
         padding: 1rem, 1rem, 1rem, 1rem;
-        
+
 }
+
+.logo {
+  position: relative;
+  left: 1050px;
+  height: 150px;
+}
+
+.header {
+    background-color: rgb(213, 89, 44);
+    box-shadow: 0 0 0.125rem 0.0625rem white;
+    width: 100%;
+    height: 150px;
+  }
 
 h1, p {
   text-align: center;
@@ -40,7 +53,3 @@ h1, p {
 .circular {
       border-radius: 100%;
 }
-
-
-
-
