@@ -12,9 +12,10 @@
         
 }
 
-.hr1 {
-        width: auto;
+h1, p {
+  text-align: center;
 }
+
 
 
 #legend {
@@ -26,15 +27,20 @@
         text-decoration: wavy;
         font-size:20px;
 }
-#wright2 {
-        
+.wright {
+         position: relative;
+       left: 500px;
 }
 #chepe {
         background-color: whitesmoke;
-        width: 800px;
+        width: 1247px;
         height: 400px;
-       float: inline-end;
 }
+
+.circular {
+      border-radius: 100%;
+}
+
 
 
 
