@@ -5,6 +5,11 @@
     margin: 0;
 }
 
+.pokegroup {
+   width: 1247px;
+   height: 650px;
+}
+
 .header {
     background-color: rgb(213, 89, 44);
     box-shadow: 0 0 0.125rem 0.0625rem white;
